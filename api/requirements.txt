@@ -1,0 +1,7 @@
+fastapi==0.98.0
+ipython==8.14.0
+keras==2.6.0
+matplotlib==3.4.3
+numpy==1.25.0
+seaborn==0.11.2
+tensorflow==2.12.0
